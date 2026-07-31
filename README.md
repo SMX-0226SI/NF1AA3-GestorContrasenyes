@@ -99,7 +99,7 @@ Redacta un primer document amb la comparativa i la justificació tècnica de l'e
 
 ## Guia d'avaluació
 
-|Criteri d'avaluació                                         | Ponderació| |
+|Criteri d'avaluació                                         | Ponderació|
 |------------------------------------------------------------|-----------|
 | **Fase 1**                                                 |           |
 | Justificació dels Riscos                                   |   10%     |
