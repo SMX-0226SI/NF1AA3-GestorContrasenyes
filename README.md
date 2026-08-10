@@ -34,6 +34,7 @@ n) Mantenir un esperit constant d’innovació i actualització en l’àmbit de
 RA1. Aplica mesures de seguretat passiva en sistemes informàtics descrivint característiques d'entorns i relacionant-les amb les seves necessitats.
 
 1.1 Valora la importància de mantenir la informació segura.
+
 1.8 Valora la importància d'establir una política de contrasenyes.
 
 ### Continguts
